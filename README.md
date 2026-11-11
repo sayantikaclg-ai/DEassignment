@@ -31,8 +31,8 @@ The report contains formal covers, mapped Course Outcomes (CO1–CO4), high-reso
 | 3 | Traffic Light Controller Finite State Machine (FSM) | Part B (GenAI) | CO2, CO3 |  [Circuit](DEassign/DEcirc3.jpeg) \|[Circuit](DEassign/DEcirc4.jpeg) \| [Circuit](DEassign/DEcirc5.jpeg)|
 | 4 | AI-Based Fault Detection in Digital Circuits (D-Algorithm) | Part B (GenAI) | CO1, CO2 | [Circuit](DEassign/DEcirc6.jpeg) |
 | 5 | Digital Clock Finite State Machine Design | Part B (GenAI) | CO3, CO4 | [Circuit](DEassign/DEcirc7.jpeg) |
-| 6 | Application Mapping of Sequential Building Blocks | Part C (Apps) | CO3, CO1 | | [Flip-Flop](DEassign/DEcirc8.jpeg) \| [Mod-60](DEassign/DEcirc9.jpeg) \| [Shift Register](DEassign/DEcirc10.jpeg) |
-| 7 | Mini-Automation System: Automated Parking Barrier Controller | Part C (Apps) | CO3, CO4 |  | [Barrier Circuit](DEassign/DEcirc11.jpeg) |
+| 6 | Application Mapping of Sequential Building Blocks | Part C (Apps) | CO3, CO1 | [Flip-Flop](DEassign/DEcirc8.jpeg) \| [Mod-60](DEassign/DEcirc9.jpeg) \| [Shift Register](DEassign/DEcirc10.jpeg) |
+| 7 | Mini-Automation System: Automated Parking Barrier Controller | Part C (Apps) | CO3, CO  | [Barrier Circuit](DEassign/DEcirc11.jpeg) |
 | 8 | From Code to Circuit: 4-Bit Mini-ALU & Program Counter | Part C (Apps) | CO4, CO1 | [ALU Datapath](DEassign/DEcirc12.jpeg) \| [Program Counter](DEassign/DEcirc13.jpeg) |
 | 9 | Code-to-Gate Explainer: C Conditional to MUX Datapath | Part C (Apps) | CO1, CO2 | [MUX Circuit](DEassign/DEcirc14.jpeg) |
 
