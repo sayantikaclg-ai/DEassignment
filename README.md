@@ -1,5 +1,5 @@
 DIGITAL ELECTRONICS LABORATORY (ESC392)
-|---|---|
+
 Student Identification & Academic Details
 | Feild | Information |
 |---|---|
