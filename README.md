@@ -67,6 +67,6 @@ The report contains formal covers, mapped Course Outcomes (CO1–CO4), high-reso
 -
 ## How to Simulate Circuits
 1. Download and install Logisim Evolution.
-2. Clone this repository:   
+2. Clone this repository: https://github.com/sayantikaclg-ai/DEassignment 
 3. Open any .circ file or inspect schematic diagrams in the circuits/ folder.
 4. Use Simulate -> Ticks Enabled or press Ctrl + K to cycle the clock.
